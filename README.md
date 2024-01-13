@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yashpurkar.netlify.app/](https://yashpurkar.netlify.app/)
 
-- 💬 Ask me about **HTML | CSS | JS | React Js**
+- 💬 Ask me about **HTML | CSS | JS | React Js | Next Js**
 
 - 📫 How to reach me **yashpurkar7079@gmail.com**
 
