@@ -8,13 +8,10 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://yashpurkar.netlify.app/](https://yashpurkar.netlify.app/)
-
 - 💬 Ask me about **HTML | CSS | JS | React Js | Next Js**
 
-- 📫 How to reach me **yashpurkar7079@gmail.com**
+- 📫 How to reach me **yashpurkar14@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/2vh2v5d43u](https://flowcv.com/resume/2vh2v5d43u)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
